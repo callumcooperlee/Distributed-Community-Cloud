@@ -6,7 +6,7 @@ labels: ["type:meeting"]
 assignees: ["callumcooperlee"]
 ---
 
-**Date:** DD/MM/YYYY · **Attendees:** Callum Cooper-Lee, Yehia Elkhatib
+**Date:** DD/MM/YYYY · **Attendees:** Callum Cooper Lee, Yehia Elkhatib
 
 ## Agenda
 - Progress since last meeting
