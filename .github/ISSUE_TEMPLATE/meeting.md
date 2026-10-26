@@ -1,7 +1,7 @@
 ---
 name: Supervisor Meeting
 about: Agenda, minutes, decisions and action items for a supervisor meeting
-title: "Supervisor meeting N – DD/MM/YYYY"
+title: "Supervisor Meeting N – DD/MM/YYYY"
 labels: ["type:meeting"]
 assignees: ["callumcooperlee"]
 ---
