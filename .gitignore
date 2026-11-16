@@ -1,0 +1,18 @@
+# Built binaries
+/bin/
+/dcc
+/dcc.exe
+
+# Test output
+*.test
+*.out
+coverage.*
+
+# Local node data
+/data/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
